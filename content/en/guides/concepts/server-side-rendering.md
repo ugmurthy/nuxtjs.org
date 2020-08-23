@@ -1,6 +1,6 @@
 ---
 title: Server Side Rendering
-description: Server-side rendering (SSR), is the ability of an application to contribute by displaying the web-page on the server instead of rendering it in the browser.
+description: Server-side rendering (SSR), is the ability of an application to contribute by rendering the web-page on the server instead of rendering it in the browser.
 position: 3
 category: concepts
 questions:
